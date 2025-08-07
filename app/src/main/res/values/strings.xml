@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IG Location Restrictor</string>
+    <string name="accessibility_service_description">This service monitors app usage to restrict Instagram access based on your location and time limits.</string>
+    <string name="device_admin_description">Required to prevent app uninstallation when at home location.</string>
+    <string name="notification_channel_name">IG Restriction Notifications</string>
+    <string name="notification_channel_description">Notifications about Instagram restrictions and time limits</string>
+    <string name="location_service_notification_title">Location Monitoring Active</string>
+    <string name="location_service_notification_text">Monitoring location for Instagram restrictions</string>
+    <string name="instagram_blocked_title">Instagram Blocked</string>
+    <string name="instagram_blocked_message">Instagram is restricted at home. Go outside to use it or use your daily 2-hour limit.</string>
+    <string name="time_limit_exceeded_title">Time Limit Exceeded</string>
+    <string name="time_limit_exceeded_message">You have used your 2-hour daily Instagram limit.</string>
+    <string name="emergency_override_used_title">Emergency Override Used</string>
+    <string name="emergency_override_used_message">Emergency override activated. %d overrides remaining this month.</string>
+</resources>
